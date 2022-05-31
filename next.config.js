@@ -4,5 +4,5 @@ module.exports = {
   images: {
     domains: ["rb.gy"],
   },
-  swcMinify: true,
+  swcMinify: false,
 }
