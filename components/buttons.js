@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Loading } from './icons';
-import { Modal } from './modal';
+import { RightModal } from './modal';
 
 // color: brand color --  String
 // color: array
