@@ -1,0 +1,58 @@
+[
+  {
+    "phoneNumber": "08024143314",
+    "email": "kelleybond@organica.com",
+    "name": "Lee Barron",
+    "role": "ADMIN",
+    "token": "d529567f-a977-4119-b923-d85c06d85b83",
+    "password": "password1"
+  },
+  {
+    "phoneNumber": "08063999260",
+    "email": "leebarron@organica.com",
+    "name": "Frieda Tucker",
+    "role": "COR",
+    "token": "1fe06aa0-2e5e-4f3b-8946-d28e9cf33721",
+    "password": "password1"
+  },
+  {
+    "phoneNumber": "08080780231",
+    "email": "friedatucker@organica.com",
+    "name": "Johanna Crawford",
+    "role": "COR",
+    "token": "b63b052c-833c-4f61-aae2-b94465733a6c",
+    "password": "password1"
+  },
+  {
+    "phoneNumber": "08094780008",
+    "email": "johannacrawford@organica.com",
+    "name": "Araceli Carter",
+    "role": "COR",
+    "token": "39838e9d-ef5e-4ff8-91ad-1033da0929b3",
+    "password": "password1"
+  },
+  {
+    "phoneNumber": "08010018701",
+    "email": "aracelicarter@organica.com",
+    "name": "Casandra Wagner",
+    "role": "COR",
+    "token": "e29c3f8c-1cf1-40a7-b6fd-90154de3601e",
+    "password": "password1"
+  },
+  {
+    "phoneNumber": "08037211330",
+    "email": "casandrawagner@organica.com",
+    "name": "Combs Norman",
+    "role": "COR",
+    "token": "0fb5b67c-ec45-43cb-a5d7-2cf43a37c55a",
+    "password": "password1"
+  },
+  {
+    "phoneNumber": "08035880072",
+    "email": "combsnorman@organica.com",
+    "name": "Everett Wise",
+    "role": "COR",
+    "token": "56cf6381-affe-4c31-a373-22fa927a4ec0",
+    "password": "password1"
+  }
+]
